@@ -53,3 +53,66 @@ Click on Next
 Ready to Install
 
 Click on Next
+
+
+Why do we learn a programming language?
+
+- Jobs
+- Contribution in Project
+- Enhance Portfolio
+
+Languages ranked by number of Programming jobs:
+
+SQL
+JAVA
+JAVASCRIPT
+C#
+PYTHON
+C++
+PHP
+IOS
+RUBY/RAILS
+
+
+What is PostgreSQL
+
+- Most advanced open-source relational database in the world.
+- One of the most popular and widely used database systems.
+- Popular companies that use PostgreSQL - FUJITSU, NETFLIX, APPLE, SKYPE, SPOTIFY, INSTAGRAM and CISCO.
+
+Our objective of learning PostgreSQL:
+
+1. Know how to create a database from scratch.
+2. Perform SQL queries using joins and subqueries.
+3. Understand complex database concepts.
+4. Use SQL to perform data analysis.
+5. Confident putting SQL in your resume or LinkedIN to showcase the company/client.
+
+
+What is a Database?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
