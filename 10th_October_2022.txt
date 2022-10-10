@@ -91,6 +91,55 @@ Our objective of learning PostgreSQL:
 
 What is a Database?
 
+- A Database is an organized collection of data.
+- Database gives us a method of accessing and manipulating the data.
+
+Types of Databases?
+- Flat file Database(like Excel sheets)
+- Document Model Database(NoSQL-Cassandra)-Python with Cassandra
+- Relational Database(MySQL, PostgreSQL etc)
+
+Relational Databases
+
+- Data is stored in tables.
+- These tables can be linked to each other.
+- Can identify data in relation to another piece of data in the database.
+
+Relational Database Management System(RDBMS)
+
+- MySQL, PostgreSQL, Oracle are RDBMS.
+- RDBMS allows us to interact with the Database.
+
+SQL
+- Structured Query Language
+- The language of talking to relational databases.
+- Used to create tables, insert data, retrieve data and much more.
+- SQL queries are very similar across different database systems.
+
+DDL - Data Definition Language
+DML - Data Manipulation Language
+
+
+DDL - Data Definition Language
+
+- How to create tables in a database.
+- How to modify tables in a database.
+- How to delete tables from a database.
+
+Database Tables
+
+- Tables contain columns(fields) and rows of data(record).
+- Each column has a defined data type which defines what type of data can be contained within that column.
+- Each row of data should be unique
+- Each column should contain only one value per row.
+
+
+
+
+
+
+
+
 
 
 
