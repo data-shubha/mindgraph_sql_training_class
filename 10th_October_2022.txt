@@ -1,0 +1,55 @@
+PostgreSQL
+
+Installation
+
+Search for : postgresql in chrome.
+
+Click on : https://www.postgresql.org/(probably the first link)
+
+Click on downloads
+
+Click on installer
+
+Click on arrow below Windows x86-64(or whatever is your system) - version 14.5
+
+Go to Downloads
+
+Click on : postgresql-14.5-1-windows-x64
+
+Click on Yes
+
+Setup Screen appears
+
+Click on Next
+
+Installation Directory : C:\Program Files\PostgreSQL\14
+
+Click on Next
+
+Select all options for components
+
+Click on Next
+
+Data Directory : C:\Program Files\PostgreSQL\14\data
+
+Click on Next
+
+Password : admin (superuser)
+
+Click on Next
+
+Port Number : 5432(By Default)
+
+Click on Next
+
+Advanced Options(Locale) : Default Locale
+
+Click on Next
+
+Pre-Installation Summary
+
+Click on Next
+
+Ready to Install
+
+Click on Next
