@@ -1,0 +1,27 @@
+Data Types in SQL
+
+1)NUMERIC DATA TYPE :
+
+1)INT --------  Whole Number -----(Age, Quantity)
+2)NUMERIC ------- Decimal Number ------(Height, Price)
+3)SERIAL -------- Auto incrementing whole number -----(ID)(primary_key)
+
+
+2)STRING DATA TYPE :
+
+1)CHAR(N)------- (Fixed length string of length N)------(Gender, State)
+2)VARCHAR(N) ----- (Varying length string of max length N) -------(Name, Email)
+3)TEXT ------- (Varying length string with no maximum) ------ (comments, Review)
+
+
+3)TIME DATA TYPE :
+
+1)TIME -----(HH:MM:SS)---- (HOURS:MINUTES:SECONDS)
+2)DATE-------(YYYY-MM-DD)------ (DATE OF BIRTH)
+3)TIMESTAMP-------(HH:MM:SS , YYYY-MM-DD)------- (ORDER ON THAT TIME)
+#HERE Timestamp we are using for store some data which include Date on that particular time then we can use  this TIMESTAMP DATA TYPE.
+
+OTHERS :
+
+1)BOOLEAN ----(True (or) FALSE)------(Instock)
+2)ENUM--------(List of value input by the user)-----(Gender list)
