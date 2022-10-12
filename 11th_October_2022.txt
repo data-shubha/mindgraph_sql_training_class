@@ -25,3 +25,30 @@ OTHERS :
 
 1)BOOLEAN ----(True (or) FALSE)------(Instock)
 2)ENUM--------(List of value input by the user)-----(Gender list)
+
+
+Primary Key and Foreign Key
+
+PRIMARY KEY
+
+- A column which uniquely identifies a record in the table.
+- Must be unique and cannot be null.
+- Only one primary key per table.
+- Primary keys are not compulsory but are highly advised!.
+
+FOREIGN KEY
+
+- A foreign key is used to link two tables together.
+- A foreign key is a column where the values match the values of another tables primary key column.
+- The table with the primary key is called the reference or parent table and the table with the foreign key is called child table.
+- A table can contain Multiple Foreign Keys.
+
+
+UNIQUE, NULL and CHECK CONSTRAINTS
+
+UNIQUE CONSTRAINTS
+
+- Ensures that column can only contain unique values.
+- Throws an error if duplicate values are inserted into a column.
+- We need to state whether a column should have a unique constraint while creating a table.
+- Example : EmailID
